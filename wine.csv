@@ -1,0 +1,16 @@
+Winzer/Erzeuger,Name,Typ,Farbe,Rebsorte,Bio,# Gekauft,Preis,Herkunft,Region,Alkohol,notes,Shop Link
+Fiorini,Becco rosso Lambrusco Castelvetro,Perlwein,rot,Lambrusco,FALSE,1,"8,90 €",Italien,Emilia Romagna,"11,50%",,https://tuttovino.at/produkte/schaumwein-frizzante/becco-rosso-lambrusco-secco-castelvetro/
+Fiorini,Re Gusto Lambrusco Castelvetro,Perlwein,rot,Lambrusco,FALSE,9,"8,90 €",Italien,Emilia Romagna,"9,00%",,https://tuttovino.at/produkte/schaumwein-frizzante/re-gusto-lambrusco-castelvetro-doc-amabile/
+Gschweicher,Grüner Veltliner Galgenberg,Wein,weiß,Grüner Vetliner,FALSE,3,"8,90 €",Österreich,Weinviertel,"8,90%",,https://tuttovino.at/produkte/wein/gruener-veltliner-galgenberg/
+Gruber Röschitz,Gelber Muskateller,Wein,weiß,Muskateller,TRUE,5,"9,40 €",Österreich,Weinviertel,"11,00%",,https://tuttovino.at/produkte/wein/gelber-muskateller/
+Sandeman,Late Bottle Vintage,Portwein,rot,,FALSE,,,Portugal,Porto/Douro,"20,00%",,https://www.sandeman.com/port-wine/lbv-vintage/porto-late-bottled-vintage-2015/
+Sandeman,Fine White Porto,Portwein,weiß,,FALSE,,,Portugal,Porto/Douro,"19,50%",,https://www.sandeman.com/port-wine/white/porto-fine-white-2020/
+Graham's Port,Extra Dry White Port,Portwein,weiß,,FALSE,1,"14,90 €",Portugal,Porto/Douro,"19,00%",,https://tuttovino.at/produkte/wein/white-port-19-vol-extra-dry/
+Doglia Gianni,Moscato d’Asti,Wein,weiß,Muskateller,FALSE,1,"12,90 €",Italien,Piemont,"5,00%",,https://tuttovino.at/produkte/wein/moscato-dasti-docg/
+Barollo,Frater Bianco Chardonnay Venezia ,,weiß,Chardonnay,FALSE,2,"8,90 €",Italien,Venetien,"12,50%",,https://tuttovino.at/produkte/wein/frater-bianco-chardonnay-venezia-doc/
+Tenuta Casteani,Santasso Viognier Maremma Toscana,,weiß,Viognier,FALSE,3,"13,50 €",Italien,Toskana,"13,50%",muschel,https://tuttovino.at/produkte/wein/santasso-viognier-maremma-toscana-doc/
+Tremmel,Frizzante M,Perlwein,weiß,Muskateller,FALSE,3,"10,40 €",Österreich,Burgenland,"11,00%",,https://tuttovino.at/produkte/schaumwein-frizzante/frizzante-m/
+Polz,Rosé Frizzante,Perlwein,rosé,Zweigelt,FALSE,2,"6,99 €",Österreich,Südsteiermark,"11,00%",,https://www.interspar.at/shop/weinwelt/polz-frizzante-ros/p/2020003204418
+Gschweicher,Frizzante Grüner Veltliner,Perlwein,weiß,Grüner Vetliner,FALSE,2,"8,20 €",Österreich,Weinviertel,"12,50%",,https://tuttovino.at/produkte/schaumwein-frizzante/frizzante-gruener-veltliner/
+Barollo,barollo rot,,,,FALSE,,,,,,,
+Tenuta La Presa,Bardolino rot,,,,FALSE,,,,,,,

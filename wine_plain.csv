@@ -1,0 +1,16 @@
+Winzer/Erzeuger,Name,Typ,Farbe,Rebsorte,Bio,# Gekauft,Preis,Herkunft,Region,Alkohol,notes,Shop Link
+Fiorini,Becco rosso Lambrusco Castelvetro,Perlwein,rot,Lambrusco,FALSE,1,8.9,Italien,Emilia Romagna,0.115,,https://tuttovino.at/produkte/schaumwein-frizzante/becco-rosso-lambrusco-secco-castelvetro/
+Fiorini,Re Gusto Lambrusco Castelvetro,Perlwein,rot,Lambrusco,FALSE,9,8.9,Italien,Emilia Romagna,0.09,,https://tuttovino.at/produkte/schaumwein-frizzante/re-gusto-lambrusco-castelvetro-doc-amabile/
+Gschweicher,Grüner Veltliner Galgenberg,Wein,weiß,Grüner Vetliner,FALSE,3,8.9,Österreich,Weinviertel,0.089,,https://tuttovino.at/produkte/wein/gruener-veltliner-galgenberg/
+Gruber Röschitz,Gelber Muskateller,Wein,weiß,Muskateller,TRUE,5,9.4,Österreich,Weinviertel,0.11,,https://tuttovino.at/produkte/wein/gelber-muskateller/
+Sandeman,Late Bottle Vintage,Portwein,rot,,FALSE,,,Portugal,Porto/Douro,0.2,,https://www.sandeman.com/port-wine/lbv-vintage/porto-late-bottled-vintage-2015/
+Sandeman,Fine White Porto,Portwein,weiß,,FALSE,,,Portugal,Porto/Douro,0.195,,https://www.sandeman.com/port-wine/white/porto-fine-white-2020/
+Graham's Port,Extra Dry White Port,Portwein,weiß,,FALSE,1,14.9,Portugal,Porto/Douro,0.19,,https://tuttovino.at/produkte/wein/white-port-19-vol-extra-dry/
+Doglia Gianni,Moscato d’Asti,Wein,weiß,Muskateller,FALSE,1,12.9,Italien,Piemont,0.05,,https://tuttovino.at/produkte/wein/moscato-dasti-docg/
+Barollo,Frater Bianco Chardonnay Venezia ,Wein,weiß,Chardonnay,FALSE,2,8.9,Italien,Venetien,0.125,,https://tuttovino.at/produkte/wein/frater-bianco-chardonnay-venezia-doc/
+Tenuta Casteani,Santasso Viognier Maremma Toscana,Wein,weiß,Viognier,FALSE,3,13.5,Italien,Toskana,0.135,muschel,https://tuttovino.at/produkte/wein/santasso-viognier-maremma-toscana-doc/
+Tremmel,Frizzante M,Perlwein,weiß,Muskateller,FALSE,3,10.4,Österreich,Burgenland,0.11,,https://tuttovino.at/produkte/schaumwein-frizzante/frizzante-m/
+Polz,Rosé Frizzante,Perlwein,rosé,Zweigelt,FALSE,2,6.99,Österreich,Südsteiermark,0.11,,https://www.interspar.at/shop/weinwelt/polz-frizzante-ros/p/2020003204418
+Gschweicher,Frizzante Grüner Veltliner,Perlwein,weiß,Grüner Vetliner,FALSE,2,8.2,Österreich,Weinviertel,0.125,,https://tuttovino.at/produkte/schaumwein-frizzante/frizzante-gruener-veltliner/
+Barollo,barollo rot,,,,FALSE,,,,,,,
+Tenuta La Presa,Bardolino rot,,,,FALSE,,,,,,,
