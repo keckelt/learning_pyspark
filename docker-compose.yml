@@ -1,10 +1,12 @@
 version: '2.2'
 services:
   lab:
-    image: jupyter/pyspark-notebook:latest
-    command: jupyter lab --no-browser --ServerApp.token='' --ServerApp.password=''
+    image: jupyter/pyspark-notebook
     ports:
       - 8888:8888
       - 4040:4040
     volumes:
       - ./:/home/jovyan/work
+    environment:
+      - JUPYTER_ENABLE_LAB=yes
+      - NB_USER=snape
