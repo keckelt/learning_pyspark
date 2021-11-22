@@ -1,4 +1,3 @@
-# PySpark Tutorial
 # :school_satchel: Learning Apache Spark
 
 I'm learning Apache Spark and track code and resources here.
