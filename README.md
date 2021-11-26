@@ -16,3 +16,4 @@ PySpark Homepage: http://spark.apache.org/docs/latest/api/python/getting_started
 * freeCodeCamp.org PySpark Tutorial
   * [Video](https://www.youtube.com/watch?v=_C8kWso4ne4)  
   * [Repo](https://github.com/krishnaik06/Pyspark-With-Python)
+  + Spark MLlib: http://spark.apache.org/mllib/
