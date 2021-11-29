@@ -2,6 +2,7 @@ version: '2.2'
 services:
   lab:
     image: jupyter/pyspark-notebook
+    entrypoint: start.sh jupyter lab --no-browser --ServerApp.token='' --ServerApp.password=''
     ports:
       - 8888:8888
       - 4040:4040
@@ -9,4 +10,3 @@ services:
       - ./:/home/jovyan/work
     environment:
       - JUPYTER_ENABLE_LAB=yes
-      - NB_USER=snape
